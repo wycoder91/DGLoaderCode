@@ -1,0 +1,9 @@
+D:\platform\DGLoaderCode\LoaderCodeManageDAL\bin\Debug\LoaderCodeManageDAL.dll
+D:\platform\DGLoaderCode\LoaderCodeManageDAL\bin\Debug\LoaderCodeManageDAL.pdb
+D:\platform\DGLoaderCode\LoaderCodeManageDAL\bin\Debug\LoaderCodeManageModels.dll
+D:\platform\DGLoaderCode\LoaderCodeManageDAL\bin\Debug\LoaderCodeManageModels.pdb
+D:\platform\DGLoaderCode\LoaderCodeManageDAL\obj\Debug\LoaderCodeManageDAL.csprojAssemblyReference.cache
+D:\platform\DGLoaderCode\LoaderCodeManageDAL\obj\Debug\LoaderCodeManageDAL.csproj.CoreCompileInputs.cache
+D:\platform\DGLoaderCode\LoaderCodeManageDAL\obj\Debug\LoaderCodeManageDAL.csproj.CopyComplete
+D:\platform\DGLoaderCode\LoaderCodeManageDAL\obj\Debug\LoaderCodeManageDAL.dll
+D:\platform\DGLoaderCode\LoaderCodeManageDAL\obj\Debug\LoaderCodeManageDAL.pdb

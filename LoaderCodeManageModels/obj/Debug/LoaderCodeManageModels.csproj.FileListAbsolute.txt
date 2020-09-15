@@ -1,0 +1,5 @@
+D:\platform\DGLoaderCode\LoaderCodeManageModels\bin\Debug\LoaderCodeManageModels.dll
+D:\platform\DGLoaderCode\LoaderCodeManageModels\bin\Debug\LoaderCodeManageModels.pdb
+D:\platform\DGLoaderCode\LoaderCodeManageModels\obj\Debug\LoaderCodeManageModels.csproj.CoreCompileInputs.cache
+D:\platform\DGLoaderCode\LoaderCodeManageModels\obj\Debug\LoaderCodeManageModels.dll
+D:\platform\DGLoaderCode\LoaderCodeManageModels\obj\Debug\LoaderCodeManageModels.pdb

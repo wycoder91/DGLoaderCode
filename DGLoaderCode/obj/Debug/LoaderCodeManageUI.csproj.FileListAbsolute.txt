@@ -1,0 +1,17 @@
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\DGLoaderCode.exe.config
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\DGLoaderCode.exe
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\DGLoaderCode.pdb
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\LoaderCodeManageBLL.dll
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\LoaderCodeManageModels.dll
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\LoaderCodeManageBLL.pdb
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\LoaderCodeManageModels.pdb
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\LoaderCodeManageUI.csprojAssemblyReference.cache
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\LoaderCodeManageUI.FrmLoaderCode.resources
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.Properties.Resources.resources
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\LoaderCodeManageUI.csproj.GenerateResource.cache
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\LoaderCodeManageUI.csproj.CoreCompileInputs.cache
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\LoaderCodeManageUI.csproj.CopyComplete
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.exe
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.pdb
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\LoaderCodeManageDAL.dll
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\LoaderCodeManageDAL.pdb

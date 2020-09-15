@@ -1,0 +1,10 @@
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\DGLoaderCode.exe.config
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\DGLoaderCode.exe
+D:\platform\DGLoaderCode\DGLoaderCode\bin\Debug\DGLoaderCode.pdb
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.csprojAssemblyReference.cache
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.Properties.Resources.resources
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.csproj.GenerateResource.cache
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.csproj.CoreCompileInputs.cache
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.exe
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.pdb
+D:\platform\DGLoaderCode\DGLoaderCode\obj\Debug\DGLoaderCode.DGLoaderCode.resources
